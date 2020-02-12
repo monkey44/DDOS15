@@ -1,0 +1,27 @@
+*COPY AND PASTE*
+
+yum install cpan
+
+yum install dstat
+
+yum install dos2unix
+
+chmod 777 *
+
+find /root/Booter -type f -exec dos2unix {} \;
+
+ls
+
+./launch                  (if it dosent work try: ./start)
+
+
+
+
+
+
+
+
+
+
+
+
